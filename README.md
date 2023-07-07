@@ -5,16 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravy19&label=Profile%20views&color=0e75b6&style=flat" alt="gauravy19" /> </p>
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif" alt="datascience_gif" /> </p>
-\<br>
-- 🌱 I’m currently learning **Tensorflow**
+<br>
+- 🌱  I’m currently learning </b>Tensorflow</b>
 
-- 📝 I regularly write articles about my projects on [https://medium.com/@gauravy1905](https://medium.com/@gauravy1905)
+- 📝  I regularly write articles about my projects on [https://medium.com/@gauravy1905](https://medium.com/@gauravy1905)
 
-- 💬 Ask me about **Python, Data Analysis, Data Visualization, Model building, etc**
+- 💬  Ask me about **Python, Data Analysis, Data Visualization, Model building, etc**
 
-- 📫 You can reach to me **gauravy1905@gmail.com**
+- 📫  You can reach to me at **gauravy1905@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
 <a href="https://kaggle.com/svgmyv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="svgmyv" height="30" width="40" /></a>
 <a href="https://medium.com/gaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gaurav" height="30" width="40" /></a>
