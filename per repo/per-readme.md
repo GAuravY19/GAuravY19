@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://kaggle.com/svgmyv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="svgmyv" height="30" width="40" /></a>
 <a href="https://medium.com/gaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gaurav" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gauravy905" target="blank"><img align="center" src="images/codechef." alt="gauravy905" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gauravy905" target="blank"><img align="center" src="images/codechef.png" alt="gauravy905" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gauravy1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gauravy1905" height="30" width="40" /></a>
 </p>
 
