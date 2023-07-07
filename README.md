@@ -1,9 +1,10 @@
+
+
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravy19&label=Profile%20views&color=0e75b6&style=flat" alt="gauravy19" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravy19" alt="gauravy19" /></a> </p>
+<p align="right"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif" alt="datascience_gif" /> </p>
 
 - 🌱 I’m currently learning **Tensorflow**
 
