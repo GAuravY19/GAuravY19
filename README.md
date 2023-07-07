@@ -34,7 +34,7 @@
 <h4 align="left">Data Visualization :</h4>
 <a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://hadrienj.github.io/assets/images/icons/matplotlib.png" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="[images/plotly.jpeg](https://plotly.com/all_static/images/icon-dash.png)" alt="plotly" width="40" height="40"/> </a>
+<a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="40" height="40"/> </a>
 
 
 <h4 align="left">AI/ML :</h4>
@@ -50,19 +50,20 @@
 
 
 <h4 align="left">BI tools :</h4>
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="[images/power.jpeg](https://i0.wp.com/indiciatraining.com/wp-content/uploads/2019/10/power-bi_logo_transparent.png?resize=982%2C1024&ssl=1)" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2019/10/power-bi_logo_transparent.png?resize=982%2C1024&ssl=1" alt="powerbi" width="40" height="40"/> </a>
 
 
 <h4 align="left">IDE's :</h4>
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="images/icons8-google-colab.svg" alt="colab" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="images/jupyter-svgrepo-com.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="images/jb-pycharm-svgrepo-com.svg" alt="pycharm" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="images/vscode-svgrepo-com.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/49854/images/7301610/1200px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.inflearn.com/wp-content/uploads/pycharm.png" alt="pycharm" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/> </a>
 
 
 <h4 align="left">Others :</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravy19&show_icons=true&locale=en" alt="gauravy19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravy19&" alt="gauravy19" /></p>
