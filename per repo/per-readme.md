@@ -52,7 +52,7 @@
 
 
 <h4 align="left">BI tools :</h4>
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="images/powerbi.svg" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="images/power.jpeg" alt="powerbi" width="40" height="40"/> </a>
 
 
 <h4 align="left">IDE's :</h4>
