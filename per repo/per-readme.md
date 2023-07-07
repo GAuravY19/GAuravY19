@@ -1,4 +1,4 @@
-<center><img scr="https://www.bing.com/images/search?view=detailV2&ccid=%2bxbP%2bEBe&id=966CD2ACA5E4F589E4C84D8BAC405EAEA973E719&thid=OIP.-xbP-EBeAKVPHXGK4Oc0hQHaFj&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fl46Cy1rHbQ92uuLXa%2fgiphy.gif&exph=360&expw=480&q=data+sceince+gif&simid=608026477533539794&FORM=IRPRST&ck=C04D56A45FB89729D63B11BD8CD1B80A&selectedIndex=8&ajaxhist=0&ajaxserp=0" height="60px" width="90px" ></center>
+<center><img scr="images/1_cXdJh394X6YIzRCvXsaJzg.gif" height="60px" width="90px" ></center>
 
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
