@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravy19&label=Profile%20views&color=0e75b6&style=flat" alt="gauravy19" /> </p>
-<p align="right"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif" alt="datascience_gif" /> </p>
+<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif" alt="datascience_gif" /> </p>
 
 - 🌱 I’m currently learning **Tensorflow**
 
