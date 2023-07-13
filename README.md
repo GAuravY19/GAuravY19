@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravy19&label=Profile%20views&color=0e75b6&style=flat" alt="gauravy19" /> </p>
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif" alt="datascience_gif" /> </p>
 <br>
-- 🌱  I’m currently learning </b>Computer Vision</b>
+- 🌱  I’m currently learning </b>PyTorch</b>
 
 - 📝  I regularly write articles about my projects on [https://medium.com/@gauravy1905](https://medium.com/@gauravy1905)
 
@@ -41,7 +41,7 @@
 <br>
 
 <h4 align="left">AI/ML :</h4>
-<p><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> | <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> | <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wwnExqe720PPHykHhs5HqwAAAA?pid=ImgDet&rs=1" alt="tensorflow" width="100" height="40"/> </a> | </p>
+<p><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> | <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://shiftlab.github.io/pytorch/assets/images/pytorch-logo.png" alt="tensorflow" width="40" height="40"/> </a> | <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wwnExqe720PPHykHhs5HqwAAAA?pid=ImgDet&rs=1" alt="tensorflow" width="100" height="40"/> </a> | </p>
 <br>
 
 <h4 align="left">Web Framework :</h4>
