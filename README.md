@@ -41,7 +41,7 @@
 <br>
 
 <h4 align="left">AI/ML :</h4>
-<p><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> | <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://shiftlab.github.io/pytorch/assets/images/pytorch-logo.png" alt="tensorflow" width="40" height="40"/> </a> | <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wwnExqe720PPHykHhs5HqwAAAA?pid=ImgDet&rs=1" alt="tensorflow" width="100" height="40"/> </a> | </p>
+<p><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> | <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://shiftlab.github.io/pytorch/assets/images/pytorch-logo.png" alt="tensorflow" width="40" height="40"/> </a> | <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wwnExqe720PPHykHhs5HqwAAAA?pid=ImgDet&rs=1" alt="tensorflow" width="100" height="40"/> </a> | <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" alt="tensorflow" width="100" height="40"/> </a> |</p>
 <br>
 
 <h4 align="left">Web Framework :</h4>
