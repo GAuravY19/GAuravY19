@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravy19&label=Profile%20views&color=0e75b6&style=flat" alt="gauravy19" /> </p>
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif" alt="datascience_gif" /> </p>
 <br>
-- 🌱  I’m currently learning </b>PyTorch</b>
+- 🌱  I’m currently learning </b>Web Scraping</b>
 
 - 📝  I regularly write articles about my projects on [https://medium.com/@gauravy1905](https://medium.com/@gauravy1905)
 
@@ -56,12 +56,16 @@
 <p><a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2019/10/power-bi_logo_transparent.png?resize=982%2C1024&ssl=1" alt="powerbi" width="40" height="40"/> </a> | </p>
 <br>
 
+<h4 align="left">Web Scraping :</h4>
+<p><a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://apmonitor.com/pds/uploads/Main/python_beautifulsoup.png" alt="BeautifulSoup" width="150" height="40"/> </a> | <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.NJZt3xbb1bR0DyA1XkWvOwHaHv?pid=ImgDet&rs=1" alt="selenium" width="40" height="40"/> </a> </p>
+<br>
+
 <h4 align="left">IDE's :</h4>
 <p><a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a> | <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/49854/images/7301610/1200px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> </a> | <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.inflearn.com/wp-content/uploads/pycharm.png" alt="pycharm" width="40" height="40"/> </a> | <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/> </a> | </p>
 <br>
 
 <h4 align="left">Others :</h4>
-<p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> | </p>
+<p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/XPath" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.OzN-m0PWFwsOe8ezJxF3MAHaEl?pid=ImgDet&rs=1" alt="xpath" width="40" height="40"/> </a> </p>
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravy19&show_icons=true&locale=en" alt="gauravy19" /></p>
