@@ -65,7 +65,7 @@
 <br>
 
 <h4 align="left">Others :</h4>
-<p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/XPath" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.OzN-m0PWFwsOe8ezJxF3MAHaEl?pid=ImgDet&rs=1" alt="xpath" width="40" height="40"/> </a> </p>
+<p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> | <a href="https://developer.mozilla.org/en-US/docs/Web/XPath" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.OzN-m0PWFwsOe8ezJxF3MAHaEl?pid=ImgDet&rs=1" alt="xpath" width="60" height="40"/> </a> | <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ZUAhLxV2uq0V5zIxUN3qtgHaEj?pid=ImgDet&rs=1" alt="markdown" width="60" height="40"/> </a> </p>
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravy19&show_icons=true&locale=en" alt="gauravy19" /></p>
