@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravy19&label=Profile%20views&color=0e75b6&style=flat" alt="gauravy19" /> </p>
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif" alt="datascience_gif" /> </p>
 <br>
-- 🌱  I’m currently learning </b>Natural language processing</b>
+- 🌱  I’m currently learning </b>Artifial Neural networks</b>
 
 - 📝  I regularly write articles about my projects on [https://medium.com/@gauravy1905](https://medium.com/@gauravy1905)
 
