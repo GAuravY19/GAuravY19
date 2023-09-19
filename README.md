@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravy19&label=Profile%20views&color=0e75b6&style=flat" alt="gauravy19" /> </p>
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif" alt="datascience_gif" /> </p>
 <br>
-- 🌱  I’m currently learning </b>Application of various machine learning Models</b>
+- 🌱  I’m currently learning </b>Artificial Neural Networks (ANN)</b>
 
 - 📝  I regularly write articles about my projects on [https://medium.com/@gauravy1905](https://medium.com/@gauravy1905)
 
@@ -41,7 +41,7 @@
 <br>
 
 <h4 align="left">AI/ML :</h4>
-<p><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> | <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://shiftlab.github.io/pytorch/assets/images/pytorch-logo.png" alt="tensorflow" width="40" height="40"/> </a> | <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wwnExqe720PPHykHhs5HqwAAAA?pid=ImgDet&rs=1" alt="tensorflow" width="100" height="40"/> </a> | <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" alt="tensorflow" width="40" height="40"/> </a> | <a href="https://spacy.io/" target="_blank" rel="noreferrer"> <img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2019/09/SpaCy_logo.svg_-300x107.png" alt="tensorflow" width="80" height="40"/> </a> | <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"> <img src="https://tech.clickdo.co.uk/wp-content/uploads/2021/07/Gensim.jpg" alt="tensorflow" width="100" height="40"/> </a> |</p>
+<p><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> | <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://shiftlab.github.io/pytorch/assets/images/pytorch-logo.png" alt="tensorflow" width="40" height="40"/> </a> | <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wwnExqe720PPHykHhs5HqwAAAA?pid=ImgDet&rs=1" alt="tensorflow" width="100" height="40"/> </a>|</p>
 <br>
 
 <h4 align="left">Web Framework :</h4>
