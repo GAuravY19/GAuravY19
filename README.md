@@ -1,18 +1,20 @@
 
 
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate aspiring Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravy19&label=Profile%20views&color=0e75b6&style=flat" alt="gauravy19" /> </p>
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif" alt="datascience_gif" /> </p>
 <br>
-- 🌱  I’m currently learning </b>Artificial Neural Networks (ANN)</b>
+- 🌱  I’m currently learning </b>WebScraping and Flask webframeworks</b>
+
+- 🌱  I’m currently working on </b>Flights Data Scraper and Flask Blog App.</b>
 
 - 📝  I regularly write articles about my projects on [https://medium.com/@gauravy1905](https://medium.com/@gauravy1905)
 
 - 💬  Ask me about **Python, Data Analysis, Data Visualization, Model building, etc**
 
-- 📫  You can reach to me at **gauravy1905@gmail.com**
+- 📫  You can reach to me at **GauravsvYadav@outlook.com**
 
   <br>
   <br>
