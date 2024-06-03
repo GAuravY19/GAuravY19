@@ -10,7 +10,7 @@
 
 - 🌱  I’m currently working on **Flights Data Scraper and Flask Blog App.**
 
-- 📝  I regularly write articles about my projects on [https://medium.com/@gauravy1905](https://medium.com/@gauravy1905)
+- 🌱  I’m currently looking on **Internships**
 
 - 💬  Ask me about **Python, Data Analysis, Data Visualization, Model building, etc**
 
