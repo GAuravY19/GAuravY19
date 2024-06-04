@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravy19&label=Profile%20views&color=0e75b6&style=flat" alt="gauravy19" /> </p>
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif" alt="datascience_gif" /> </p>
 <br>
-- 🌱  I’m currently learning <b>WebScraping and Flask web framework.</b>
+- 🌱  I’m currently learning **making end to end data science projects**.
 
-- 🌱  I’m currently working on **Flights Data Scraper and Flask Blog App.**
+- 🌱  I’m currently working on **Insurance Premium calculator**.
 
-- 🌱  I’m currently looking on **Internships**
+- 🌱  I’m currently looking for **Internships**
 
 - 💬  Ask me about **Python, Data Analysis, Data Visualization, Model building, etc**
 
