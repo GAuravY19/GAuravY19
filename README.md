@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravy19&label=Profile%20views&color=0e75b6&style=flat" alt="gauravy19" /> </p>
 
-- 🔭 I’m currently working on [Predoc](https://github.com/GAuravY19/PreDoc)
+- 🔭 I’m currently looking for Opportunities to start as a fresher.
 
 - 🌱 I’m currently learning **AI & ML from application pov**
 
 - 💬 Ask me about **python, web dev, Data science, ML**
 
-- 📫 How to reach me **gauravy1905@gmail.com**
+- 📫 How to reach me **gaurav.syadav@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
